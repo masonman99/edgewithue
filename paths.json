@@ -1,6 +1,7 @@
 {
   "mappings": [
-    "/content/edgewithue/:/"
+    "/content/edgewithue/:/",
+    "/content/edgewithue/configuration:/.helix/config.json"
   ],
   "includes": [
     "/content/edgewithue/"
